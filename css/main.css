@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Feather;
+    src: url("./shapiro-feather.otf") format("opentype");
+}
+.body {
+    font-family: Feather;
+}
